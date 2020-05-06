@@ -9,9 +9,9 @@ Different neurons come up with layers to interconnect to form proper and functio
 The training process is very essential, which is known as the backpropagation to adjust the weights and biases in the inner layers.
 
 ## Demo
-Here is the result of a successful demostration to indentify the distroted letter "A". The image is pained in MS Paint.
+Here is the result of a successful demostration to indentify the letter "A". The image is pained in MS Paint.
 
-![](https://github.com/JP-25/OCR_MachineLearning/blob/master/demo_pic/A_dis.png)
+![](https://github.com/JP-25/OCR_MachineLearning/blob/master/demo_pic/A_demo.png)
 
 ## Sources
 Training Data can be downloaded from https://github.com/JP-25/OCR_MachineLearning/blob/master/train.npy.
